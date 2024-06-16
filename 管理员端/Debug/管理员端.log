@@ -1,0 +1,5 @@
+﻿  管理员端.cpp
+F:\DCN Group Project\聊天应用v0.3\聊天应用\管理员端\管理员端.cpp(36,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\DCN Group Project\聊天应用v0.3\聊天应用\管理员端\管理员端.cpp(70,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\DCN Group Project\聊天应用v0.3\聊天应用\管理员端\管理员端.cpp(75,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  管理员端.vcxproj -> F:\DCN Group Project\聊天应用v0.3\聊天应用\Debug\管理员端.exe
