@@ -1,0 +1,13 @@
+﻿  服务端.cpp
+F:\DCN Group Project\聊天应用\服务端.cpp(73,2): warning C4551: 缺少参数列表的函数调用
+F:\DCN Group Project\聊天应用\服务端.cpp(51,34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\DCN Group Project\聊天应用\服务端.cpp(97,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\DCN Group Project\聊天应用\服务端.cpp(173,56): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\DCN Group Project\聊天应用\服务端.cpp(177,8): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\DCN Group Project\聊天应用\服务端.cpp(178,8): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\DCN Group Project\聊天应用\服务端.cpp(194,46): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\DCN Group Project\聊天应用\服务端.cpp(208,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\DCN Group Project\聊天应用\服务端.cpp(209,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\DCN Group Project\聊天应用\服务端.cpp(227,26): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\DCN Group Project\聊天应用\服务端.cpp(240,8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  聊天应用.vcxproj -> F:\DCN Group Project\聊天应用\Debug\服务端.exe
