@@ -1,0 +1,8 @@
+﻿  客户端.cpp
+F:\DCN Group Project\聊天应用v1.0 正式版\客户端\客户端.cpp(95,54): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\DCN Group Project\聊天应用v1.0 正式版\客户端\客户端.cpp(103,54): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\DCN Group Project\聊天应用v1.0 正式版\客户端\客户端.cpp(110,59): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\DCN Group Project\聊天应用v1.0 正式版\客户端\客户端.cpp(61,37): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\DCN Group Project\聊天应用v1.0 正式版\客户端\客户端.cpp(94,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\DCN Group Project\聊天应用v1.0 正式版\客户端\客户端.cpp(102,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  客户端.vcxproj -> F:\DCN Group Project\聊天应用v1.0 正式版\x64\Debug\客户端.exe
