@@ -1,0 +1,4 @@
+﻿  服务端.cpp
+F:\DCN Group Project\聊天应用v0.4\服务端\服务端.cpp(35,37): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\DCN Group Project\聊天应用v0.4\服务端\服务端.cpp(153,44): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  服务端.vcxproj -> F:\DCN Group Project\聊天应用v0.4\x64\Debug\服务端.exe
